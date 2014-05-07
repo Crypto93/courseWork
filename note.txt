@@ -1,0 +1,9 @@
+The server application needs JDBC driver to work.
+
+Both of the API's needs to have properly set path to the image logo.png to work without mistakes.
+
+------------------------------------------------------------------------------------------------------------
+
+mysql_queries folder contains the mysql queries for creating and putting information into the database.
+
+csv_files folder contains .csv files with sample content information for the database.
